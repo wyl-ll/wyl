@@ -26,6 +26,7 @@ public class Demo01JDBC {
         System.out.println();
         System.out.println("git");
         System.out.println("push-git");
+        System.out.println("idea-冲突");
 
         statement.close();
         conn.close();
