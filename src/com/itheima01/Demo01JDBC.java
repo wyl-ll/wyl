@@ -24,7 +24,7 @@ public class Demo01JDBC {
 
 
         System.out.println();
-
+        System.out.println("git");
 
         statement.close();
         conn.close();
