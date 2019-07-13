@@ -25,6 +25,7 @@ public class Demo01JDBC {
 
         System.out.println();
         System.out.println("git");
+        System.out.println("push-git");
 
         statement.close();
         conn.close();
